@@ -32,4 +32,4 @@ If you have any problems, catch the bug or have any suggestion - please find an 
 
 ## License
 
-[Click here to see the license.](./license.md)
+[Click here to see the license.](./LICENSE.md)
