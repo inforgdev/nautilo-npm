@@ -1,6 +1,7 @@
 .gitignore
 README.md
 LICENSE.md
+CONTRIBUTING.md
 node_modules
 src
 .vscode
