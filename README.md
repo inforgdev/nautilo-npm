@@ -9,7 +9,7 @@ NautiloNPM is the Inforg module boilerplate for NPM.
 * Contributing file
 * *.gitignore*
 * *.npmignore*
-* readme.md
+* Readme
 
 ## Installation
 
