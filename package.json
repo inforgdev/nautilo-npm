@@ -1,6 +1,6 @@
 {
   "name": "nautilo-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inforg module boilerplate for NPM",
   "main": "dist/index.js",
   "type": "module",
@@ -17,7 +17,7 @@
     "boilerplate"
   ],
   "author": "inforgdev <contact@inforg.dev>",
-  "homepage": "https://github.com/inforgdev/spongia-css",
+  "homepage": "https://github.com/inforgdev/nautilo-npm",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
 
