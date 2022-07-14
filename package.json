@@ -1,28 +1,28 @@
 {
-  "name": "nautilo-npm",
-  "version": "0.0.4",
-  "description": "Inforg module boilerplate for NPM.",
-  "main": "dist/index.js",
-  "type": "module",
-  "scripts": {
-    "clean": "echo \"Error: no clean specified\" && exit 1",
-    "main:compile": "echo \"Error: no main:compile specified\" && exit 1",
-    "main:watch": "echo \"Error: no main:watch specified\" && exit 1",
-    "test:compile": "echo \"Error: no test:compile specified\" && exit 1",
-    "test:watch": "echo \"Error: no test:watch specified\" && exit 1"
-  },
-  "keywords": [
-    "npm",
-    "module",
-    "boilerplate"
-  ],
-  "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
-  "contributors": [
-    "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
-  ],
-  "homepage": "https://github.com/inforgdev/nautilo-npm",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "devDependencies": {
+    "name": "nautilo-npm",
+    "version": "0.0.4",
+    "description": "Inforg module boilerplate for NPM.",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "clean": "echo \"Error: no clean specified\" && exit 1",
+        "main:compile": "echo \"Error: no main:compile specified\" && exit 1",
+        "main:watch": "echo \"Error: no main:watch specified\" && exit 1",
+        "test:compile": "echo \"Error: no test:compile specified\" && exit 1",
+        "test:watch": "echo \"Error: no test:watch specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "module",
+        "boilerplate"
+    ],
+    "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
+    "contributors": [
+        "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
+    ],
+    "homepage": "https://github.com/inforgdev/nautilo-npm",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "devDependencies": {
 
-  }
+    }
 }
