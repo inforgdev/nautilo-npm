@@ -17,6 +17,9 @@
     "boilerplate"
   ],
   "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
+  "contributors": [
+    "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
+  ],
   "homepage": "https://github.com/inforgdev/nautilo-npm",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
