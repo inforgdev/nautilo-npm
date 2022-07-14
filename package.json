@@ -16,7 +16,7 @@
     "module",
     "boilerplate"
   ],
-  "author": "inforgdev <contact@inforg.dev>",
+  "author": "Inforg <contact@inforg.dev>",
   "homepage": "https://github.com/inforgdev/nautilo-npm",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
