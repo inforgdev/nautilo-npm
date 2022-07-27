@@ -9,7 +9,9 @@
         "main:compile": "echo \"Error: no main:compile specified\" && exit 1",
         "main:watch": "echo \"Error: no main:watch specified\" && exit 1",
         "test:compile": "echo \"Error: no test:compile specified\" && exit 1",
-        "test:watch": "echo \"Error: no test:watch specified\" && exit 1"
+        "test:watch": "echo \"Error: no test:watch specified\" && exit 1",
+        "docs:dev": "vitepress dev ./",
+        "docs:build": "vitepress build ./"
     },
     "keywords": [
         "npm",
