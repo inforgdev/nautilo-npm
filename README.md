@@ -16,7 +16,7 @@ NautiloNPM is the Inforg module boilerplate for NPM.
 Clone it from Github repository:
 
 ```bash
-git clone https://github.com/inforgdev/nautilo-npm
+$ git clone https://github.com/inforgdev/nautilo-npm ./
 ```
 
 ## Documentation
